@@ -38,3 +38,7 @@ This project is a personal learning exercise, but I'm open to feedback and sugge
 ## Demo 
 
 -[burger totorial](https://first-try1.netlify.app/)
+
+## Screenshot
+
+![](./1.jpg)
